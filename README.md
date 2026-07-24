@@ -14,3 +14,4 @@ Michael Schleh1, Jean-Philippe Cartailler2, Shristi Shrestha2, Amanda Cambraia1,
 This repository contains scripts and links to analysis data used to generate manuscript figures.
 
 
+<img width="972" height="531" alt="Github (1)" src="https://github.com/user-attachments/assets/ea4b68ec-7088-4c8d-ab71-a6a938a47abe" />
