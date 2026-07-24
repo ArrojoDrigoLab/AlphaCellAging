@@ -11,7 +11,7 @@ Michael Schleh<sup>1</sup>, Jean-Philippe Cartailler<sup>2</sup>, Shristi Shrest
 7 Vanderbilt Digestive Disease Research Center, Vanderbilt University School of Medicine, Nashville, TN. 
 *Corresponding author
 
-This repository contains scripts and links to analysis data used to generate manuscript figures.
-
 
 <img width="972" height="531" alt="Github (1)" src="https://github.com/user-attachments/assets/ea4b68ec-7088-4c8d-ab71-a6a938a47abe" />
+
+This repository contains scripts and links to analysis data used to generate manuscript figures.
