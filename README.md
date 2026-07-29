@@ -22,7 +22,7 @@
 
 
 ## **Figure 6 and 7**
-R scripts for islet snRNA-seq from 80 week-old-mice fed ad libitum (control) diet, or 20% calorie restriction for 8 weeks: 
+- R scripts for islet snRNA-seq from 80 week-old-mice fed ad libitum (control) diet, or 20% calorie restriction for 8 weeks: 
 -  i) snRNA-sequencing
 -  ii) pseudobulk from snRNA-seq clusters are located in Github.  
 
