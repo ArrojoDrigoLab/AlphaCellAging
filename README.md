@@ -1,4 +1,4 @@
-**Alpha cell inflammation during human pancreas aging and type 2 diabetes and its reversal by calorie restriction in mice** 
+# **Alpha cell inflammation during human pancreas aging and type 2 diabetes and its reversal by calorie restriction in mice** 
 
 Michael Schleh<sup>1</sup>, Jean-Philippe Cartailler<sup>2</sup>, Shristi Shrestha<sup>2</sup>, Amanda Cambraia<sup>1</sup>, Aliyah Habashy<sup>1</sup>, Cara Ellis<sup>3</sup>, Melanie Cutler<sup>1</sup>, Gabriel Ferguson<sup>1</sup>, Alvin Powers<sup>4</sup>, Rafael Arrojo e Drigo<sup>1,4,5,6,7*</sup>
 
