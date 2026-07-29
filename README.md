@@ -16,7 +16,7 @@
 
 # This repository contains scripts and links to analysis data used to generate manuscript figures.
 
-# **Figure 1**:
+## **Figure 1**:
 - i) donor metadata
 - ii) raw, unprocessed peptide peak intensities mapped to UniProt proteins, iii) R script for figure generation and DE Protein-, and Reactome Pathway analysis
 
