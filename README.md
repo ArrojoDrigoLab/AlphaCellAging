@@ -16,5 +16,8 @@ Michael Schleh<sup>1</sup>, Jean-Philippe Cartailler<sup>2</sup>, Shristi Shrest
 
 This repository contains scripts and links to analysis data used to generate manuscript figures.
 
-**Figure 6 and 7**: R scripts for: i) snRNA-sequencing, and ii) pseudobulk from snRNA-seq clusters are located in Github.  
+**Figure 6 and 7**: R scripts for: 
+  i) snRNA-sequencing
+  ii) pseudobulk from snRNA-seq clusters are located in Github.  
+
 Refer to Zenodo ([doi: 10.5281/zenodo.20496993](https://zenodo.org/records/20496994)) for Cellbender-processed 10X CellRanger files, and processed seurat object (integrated_mouse_scRNAseq.rds)
