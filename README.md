@@ -16,12 +16,12 @@
 
 # This repository contains scripts and links to analysis data used to generate manuscript figures.
 
-## **Figure 1**:
+## **1 - Figure 1**:
 -  i) donor metadata
 -  ii) raw, unprocessed peptide peak intensities mapped to UniProt proteins, iii) R script for figure generation and DE Protein-, and Reactome Pathway analysis
 
 
-## **Figure 6 and 7**
+## **4 - Figure 6 and 7**
 R scripts for islet snRNA-seq from 80 week-old-mice fed ad libitum (control) diet, or 20% calorie restriction for 8 weeks: 
 -  i) snRNA-sequencing
 -  ii) pseudobulk from snRNA-seq clusters are located in Github.  
