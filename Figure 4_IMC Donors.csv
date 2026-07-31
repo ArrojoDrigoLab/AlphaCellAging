@@ -1,0 +1,25 @@
+﻿Donor ID,Sex,Age,Ethnicity,BMI,HbA1c,Disease Status,Tissue Source,Group
+HPAP-053,F,58,Caucasian,24.2,5.6,No Diabetes,UPenn,Old
+HPAP-066,F,58,African american/Black,31.07,6.2,No Diabetes,nPod,Old
+HPAP-069,F,47,Caucasian ,24.68,6.7,No Diabetes,UPenn,Old
+HPAP-093,F,50,Caucasian,34.98,4.9,No Diabetes,nPod,Old
+HPAP-105,F,51,Hispanic,28.1,5.2,No Diabetes,nPod,Old
+HPAP-118,F,51,Caucasian,33.01,5.7,No Diabetes,UPenn,Old
+HPAP-003,M,29,Caucasian,24.5,5.6,No Diabetes,nPOD,Young
+HPAP-004,F,24,Caucasian,32.2,5.4,No Diabetes,Upenn,Young
+HPAP-008,F,24,Caucasian,31.9,5.2,No Diabetes,nPod,Young
+HPAP-017,M,30,Caucasian,25.8,5.5,No Diabetes,nPod,Young
+HPAP-018,M,31,Hispanic,24.5,5.4,No Diabetes,Upenn,Young
+HPAP-019,M,22,Caucasian,29.8,5.2,No Diabetes,nPod,Young
+HPAP-027,F,31,Caucasian,32.71,4.4,No Diabetes,UPenn,Young
+HPAP-054,F,40,Caucasian,30.85,4.8,No Diabetes,UPenn,Young
+HPAP-067,M,26,Hispanic,34.97,5.9,No Diabetes,UPenn,Young
+HPAP-074,F,40,Caucasian,36.88,6.3,No Diabetes,UPenn,Young
+HPAP-075,M,35,Caucasian,27.52,6,No Diabetes,UPenn,Young
+HPAP-080,M,22,Hispanic,35.71,5.4,No Diabetes,nPod,Young
+HPAP-082,M,25,Caucasian,23.96,5.6,No Diabetes,nPod,Young
+HPAP-095,F,23,African american/Black,34.32,4.9,No Diabetes,UPenn,Young
+HPAP-099,F,28,Hispanic,24.7,5,No Diabetes,UPenn,Young
+HPAP-136,M,29,Caucasian,27.24,5.4,No Diabetes,UPenn,Young
+HPAP-139,M,22,Caucasian,26.52,5.2,No Diabetes,UPenn,Young
+HPAP-146,M,27,African american/Black,28.31,5.5,No Diabetes,UPenn,Young
