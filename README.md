@@ -20,10 +20,18 @@
 -  i) donor metadata
 -  ii) raw, unprocessed peptide peak intensities mapped to UniProt proteins, iii) R script for figure generation and DE Protein-, and Reactome Pathway analysis
 
+## **2 - Figure 2 & 3**:
 
-## **4 - Figure 6 and 7**
+## **3 - Figure 4**:
+- i) Imaging Mass Cytometry: old and young donors
+- ii) CODEX: old and young donors
+
+## **4 - Figure 5**:
+- CODEX data in ND vs. T2D age-matched adults
+
+## ** 6 - Figure 6 and 7**
 R scripts for islet snRNA-seq from 80 week-old-mice fed ad libitum (control) diet, or 20% calorie restriction for 8 weeks: 
 -  i) snRNA-sequencing
--  ii) pseudobulk from snRNA-seq clusters are located in Github.  
+-  ii) pseudobulk from beta cell and alpha cell snRNA-seq clusters. Located in Github and in its respective file.  
 
 Refer to Zenodo ([doi: 10.5281/zenodo.20496993](https://zenodo.org/records/20496994)) for Cellbender-processed 10X CellRanger files, and processed seurat object (integrated_mouse_scRNAseq.rds)
