@@ -25,8 +25,6 @@
 # ----------------------------------------------------------------------------
 #1A. Working Directory 
 setwd("") <---
-#setwd("C:/Users/schlehmw/Box/Mike_OldMice_snRNseq_Bender")
-setwd("C:/Users/schlehmw/Box/Mike - Nature Aging/Source Data/Figure 6 & 7")
 
 #1B. Download necessary packages
 install.packages(c("tidyverse", "Seurat", "hdf5r", "patchwork", "sctransform","viridis", "enrichR", "cowplot", "Matrix", "reshape2","pheatmap", "png",
