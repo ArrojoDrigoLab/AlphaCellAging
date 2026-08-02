@@ -23,7 +23,8 @@
 ## **2 - Figure 2 & 3**:
 
 ## **3 - Figure 4**:
-- i) Imaging Mass Cytometry: old and young donors
+- i) Imaging Mass Cytometry: old and young donors.
+  - Source file located in Zenodo (https://zenodo.org/records/20496994) "Figure 4_IMC_QuPath_Cell_measurements_merged_metadata_celltype.csv"
 - ii) CODEX: old and young donors
 
 ## **4 - Figure 5**:
