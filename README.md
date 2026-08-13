@@ -23,9 +23,10 @@
 ## **2 - Figure 2 & 3**:
 
 ## **3 - Figure 4**:
-- i) Imaging Mass Cytometry: old and young donors.
+- i) QuPath cell segmentation and marker quantification
+- ii) Imaging Mass Cytometry: old and young donors.
   - Source file located in Zenodo (https://zenodo.org/records/20496994) "Figure 4_IMC_QuPath_Cell_measurements_merged_metadata_celltype.csv"
-- ii) CODEX: old and young donors
+- iii) CODEX: old and young donors
 
 ## **4 - Figure 5**:
 - CODEX data in ND vs. T2D age-matched adults
