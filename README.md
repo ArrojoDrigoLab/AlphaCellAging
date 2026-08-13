@@ -20,15 +20,15 @@
 -  i) donor metadata
 -  ii) raw, unprocessed peptide peak intensities mapped to UniProt proteins, iii) R script for figure generation and DE Protein-, and Reactome Pathway analysis
 
-## **2 - Figure 2 & 3**:
+## **2A - Figure 2 & 3**:
 
-## **3 - Figure 4**:
+## **3A - Figure 4**:
 - i) QuPath cell segmentation and marker quantification
 - ii) Imaging Mass Cytometry: old and young donors.
   - Source file located in Zenodo (https://zenodo.org/records/20496994) "Figure 4_IMC_QuPath_Cell_measurements_merged_metadata_celltype.csv"
 - iii) CODEX: old and young donors
 
-## **4 - Figure 5**:
+## **3B - Figure 5**:
 - CODEX data in ND vs. T2D age-matched adults
 
 ## ** 6 - Figure 6 and 7**
