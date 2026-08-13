@@ -20,7 +20,7 @@
 -  i) donor metadata
 -  ii) raw, unprocessed peptide peak intensities mapped to UniProt proteins, iii) R script for figure generation and DE Protein-, and Reactome Pathway analysis
 
-## **2A - Figure 2 & 3**:
+## **2 - Figure 2 & 3**:
 
 ## **3A - Figure 4**:
 - i) QuPath cell segmentation and marker quantification
@@ -31,7 +31,7 @@
 ## **3B - Figure 5**:
 - CODEX data in ND vs. T2D age-matched adults
 
-## ** 6 - Figure 6 and 7**
+## ** 4 - Figure 6 and 7**
 R scripts for islet snRNA-seq from 80 week-old-mice fed ad libitum (control) diet, or 20% calorie restriction for 8 weeks: 
 -  i) snRNA-sequencing
 -  ii) pseudobulk from beta cell and alpha cell snRNA-seq clusters. Located in Github and in its respective file.  
