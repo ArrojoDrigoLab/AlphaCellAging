@@ -23,9 +23,10 @@
 ## **2 - Figure 2 & 3**:
 
 ## **3A - Figure 4**:
-- i) QuPath cell segmentation and marker quantification
+- i) Imaging Mass Cytometry: QuPath cell segmentation and marker quantification
 - ii) Imaging Mass Cytometry: old and young donors.
   - Source file for cell segmented data located in Zenodo ([doi: 10.5281/zenodo.20496993](https://zenodo.org/records/20496994)) "Figure 4_IMC_QuPath_Cell_measurements_merged_metadata_celltype.csv"
+- ii) CODEX: QuPath cell segmentation and marker quantification
 - iii) CODEX: old and young donors.
   - Source file for cell segmented data located in Zenodo ([doi: 10.5281/zenodo.20496993](https://zenodo.org/records/20496994)) "Figure 4_CODEX_Cell_measurements_merged.csv"  
 
