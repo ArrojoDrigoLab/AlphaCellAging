@@ -1,0 +1,18 @@
+,donor_ID,sex,bmi,age_years,hba1c,c_peptide_ng_ml,allocation_via,cause_of_death,liver_pancreas_removal_time_minutes,pancreas_condition,prs_score,Group
+1,HPAP-013,Female,41.6,28,6.3,4.66,UPENN,Anoxia,25,Very Fatty,-0.000531022,young
+2,HPAP-016,Male,25.21,30,5,4.49,nPOD,Head Trauma,NA,Damaged and Missed Pancreatic Head,0.00609124,young
+3,HPAP-017,Male,25.8,30,5.5,3.71,nPOD,Anoxia,9,Fatty (Patchy Infiltration),0.00823723,young
+4,HPAP-027,Female,32.71,31,4.4,7.06,UPENN,Anoxia,28,Very Fatty,-0.00396606,young
+5,HPAP-040,Male,23.98,35,5.4,7.01,UPENN,Cerebrovascular/Stroke,24,Average fatty infiltration,-0.00199672,young
+6,HPAP-045,Female,26.2,27,5.2,1.7,nPOD,Anoxia,44,Minimal fatty infiltration,0.0055073,young
+7,HPAP-053,Female,24.2,58,5.6,13.03,UPENN,Anoxia,31,Fatty infiltration and Hematoma,-0.0027281,old
+8,HPAP-056,Male,32.89,33,5.6,14.41,UPENN,Anoxia,9,Fat average,0.00113759,young
+9,HPAP-066,Female,31.07,58,6.2,3.88,nPOD,Cerebrovascular/Stroke,32,Pancreas damaged (head),-0.00168321,old
+10,HPAP-093,Male,34.98,50,4.9,18.4,UPENN,Anoxia,36,Pancreatic neck damaged,0.00751971,old
+11,HPAP-094,Female,37.84,38,5,9.43,UPENN,Cerebrovascular/Stroke,NA,,-0.00731533,young
+12,HPAP-095,Female,34.32,23,4.9,4.13,UPENN,Anoxia,6,Fatty,-0.00212883,young
+13,HPAP-112,Female,29.71,53,5.6,1.55,nPOD,Anoxia 2nd CVA,NA,Fatty with patchy infiltration,NA,old
+14,HPAP-155,Male,29.63,23,5.1,6.77,nPOD,Head Trauma,49,Fatty infiltration & damaged,NA,young
+15,HPAP-169,Male,34.48,63,6.1,7.89,UPENN,Cerebrovascular/Stroke,NA,Fatty,NA,old
+16,HPAP-174,Female,29.77,57,5.8,4.45,UPENN,Cerebrovascular/Stroke,27,Fatty (average),NA,old
+17,HPAP-175,Female,33.11,54,5.5,8.62,UPENN,Cerebrovascular/Stroke,11,Fatty,NA,old
