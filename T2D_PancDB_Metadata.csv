@@ -1,0 +1,26 @@
+donor_ID,Image Used,Image Area,sex,bmi,age_years,hba1c,c_peptide_ng_ml,clinical_diagnosis,disease_duration,allocation_via,cause_of_death,liver_pancreas_removal_time_minutes,pancreas_condition,prs_score,Group
+HPAP-016,HPAP-016_CODEX_Body-of-pancreas_OCT.ome.tif,41271592.09,Male,25.21,30,5,4.49,T1D control,,nPOD,Head Trauma,NA,Damaged and Missed Pancreatic Head,0.00609124,ND
+HPAP-017,HPAP-017_CODEX_Body-of-pancreas_OCT.ome.tif,36208948.37,Male,25.8,30,5.5,3.71,T1D control,,nPOD,Anoxia,9,Fatty (Patchy Infiltration),0.00823723,ND
+HPAP-018,HPAP-018_CODEX_Head-of-pancreas_OCT.ome.tif,48577181.41,Male,24.47,31,5.4,6.4,T1D control,,UPENN,Head Trauma,30,Minimal fatty infiltration,0.0035549,ND
+HPAP-027,HPAP-027_CODEX_Head-of-pancreas_OCT.ome.tif,37110662.24,Female,32.71,31,4.4,7.06,T1D control,,UPENN,Anoxia,28,Very Fatty,-0.00396606,ND
+HPAP-037,HPAP-037_CODEX_Head-of-pancreas_OCT.ome.tif,59159667.63,Female,21.9,35,5.3,4.75,T1D control,,UPENN,Cerebrovascular/Stroke,12,Very Soft,0.00319088,ND
+HPAP-040,HPAP-040_CODEX_Head-of-pancreas_OCT.ome.tif,74382640.8,Male,23.98,35,5.4,7.01,T1D control,,UPENN,Cerebrovascular/Stroke,24,Average fatty infiltration,-0.00199672,ND
+HPAP-045,HPAP-045_CODEX_Tail-of-pancreas_OCT.ome.tif,32630731.76,Female,26.2,27,5.2,1.7,T1D control,,nPOD,Anoxia,44,Minimal fatty infiltration,0.0055073,ND
+HPAP-053,HPAP-053_CODEX_Head-of-pancreas_OCT.ome.tif,34348436.79,Female,24.2,58,5.6,13.03,T2D control,,UPENN,Anoxia,31,Fatty infiltration and Hematoma,-0.0027281,ND
+HPAP-056,HPAP-056_CODEX_Head-of-pancreas_OCT.ome.tif,13189839.7,Male,32.89,33,5.6,14.41,T1D control,,UPENN,Anoxia,9,Fat average,0.00113759,ND
+HPAP-066,HPAP-066_CODEX_Tail-of-pancreas_OCT.ome.tif,16153257.9,Female,31.07,58,6.2,3.88,T2D control,,nPOD,Cerebrovascular/Stroke,32,Pancreas damaged (head),-0.00168321,ND
+HPAP-093,HPAP-093_CODEX_Body-of-pancreas_OCT.ome.tif,31669970.2,Male,34.98,50,4.9,18.4,T2D control,,UPENN,Anoxia,36,Pancreatic neck damaged,0.00751971,ND
+HPAP-095,HPAP-095_CODEX_Head-of-pancreas_OCT.ome.tif,56314565.65,Female,34.32,23,4.9,4.13,T1D control,,UPENN,Anoxia,6,Fatty,-0.00212883,ND
+HPAP-112,HPAP-112_CODEX_Head-of-pancreas_OCT.ome.tif,57424487.24,Female,29.71,53,5.6,1.55,T2D control,,nPOD,Anoxia 2nd CVA,NA,Fatty with patchy infiltration,NA,ND
+HPAP-155,HPAP-155_CODEX_Body-of-pancreas_OCT.ome.tif,50577703.28,Male,29.63,23,5.1,6.77,T1D control,,nPOD,Head Trauma,49,Fatty infiltration & damaged,NA,ND
+HPAP-169,HPAP-169_CODEX_Tail-of-pancreas_OCT.ome.tif,23685936.87,Male,34.48,63,6.1,7.89,T2D control,,UPENN,Cerebrovascular/Stroke,NA,Fatty,NA,ND
+HPAP-174,HPAP-174_CODEX_Body-of-pancreas_OCT.ome.tif,45329826.53,Female,29.77,57,5.8,4.45,T2D control,,UPENN,Cerebrovascular/Stroke,27,Fatty (average),NA,ND
+HPAP-175,HPAP-175_CODEX_Tail-of-pancreas_OCT.ome.tif,68057589.77,Female,33.11,54,5.5,8.62,T2D control,,UPENN,Cerebrovascular/Stroke,11,Fatty,NA,ND
+HPAP-013,HPAP-013_CODEX_Body-of-pancreas_OCT.ome.tif,32826920.93,Female,41.6,28,6.3,4.66,T2DM polycystic ovaries,>5 years,UPENN,Anoxia,25,Very Fatty,-0.000531022,T2D
+HPAP-051,HPAP-051_CODEX_Tail-of-Pancreas_FFPE.ome.tif,82671861.49,Female,45.49,43,6.7,1.92,T2DM,5-6 years,UPENN,Anoxia,7,Fatty infiltration,-0.00651702,T2D
+HPAP-079,HPAP-079_CODEX_Tail-of-Pancreas_FFPE.ome.tif,93416823.95,Female,28.39,52,6.8,1.02,T2DM,10 years,nPOD,Cerebrovascular/Stroke,NA,"Pancreatitis, Fatty infiltration",0.00210745,T2D
+HPAP-100,HPAP-100_CODEX_Tail-of-Pancreas_FFPE.ome.tif,40707129.85,Male,28.83,41,10.7,0.67,T2DM,7-8 years,nPOD,Cerebrovascular/Stroke,7,Fatty infiltration,-0.00719526,T2D
+HPAP-124,HPAP-124_CODEX_Tail-of-Pancreas_FFPE.ome.tif,99673807.7,Male,32.17,47,5.4,7.2,T2DM,10 years,nPOD,Head Trauma,NA,Fatty and firm,NA,T2D
+HPAP-142,HPAP-142_CODEX_Tail-of-Pancreas_FFPE.ome.tif,26046932.63,Male,23.48,43,9.9,1.83,T2DM,0-5 years,UPENN,Anoxia,NA,Minimal fat infiltration,NA,T2D
+HPAP-143,HPAP-143_CODEX_Tail-of-Pancreas_FFPE.ome.tif,65278810.53,Female,36.14,36,8.6,1.59,T2DM,>3 years,nPOD,Cerebrovascular/Stroke,NA,Fatty,NA,T2D
+HPAP-177,HPAP-177_CODEX_Tail-of-pancreas_OCT.ome.tif,20711117.45,Female,39.14,51,7,3.44,T2DM,,UPENN,Cerebrovascular/Stroke,NA,Fatty,NA,T2D
