@@ -25,13 +25,14 @@
 ## **3A - Figure 4**:
 - i) Imaging Mass Cytometry: QuPath cell segmentation and marker quantification
 - ii) Imaging Mass Cytometry: old and young donors.
-  - Source file for cell segmented data located in Zenodo ([doi: 10.5281/zenodo.20496993](https://zenodo.org/records/20496994)) "Figure 4_IMC_QuPath_Cell_measurements_merged_metadata_celltype.csv"
+  - Source file for cell segmented data located in Zenodo (10.5281/zenodo.21681701) "Figure 4_IMC_QuPath_Cell_measurements_merged_metadata_celltype.csv"
 - ii) CODEX: QuPath cell segmentation and marker quantification
 - iii) CODEX: old and young donors.
-  - Source file for cell segmented data located in Zenodo ([doi: 10.5281/zenodo.20496993](https://zenodo.org/records/20496994)) "Figure 4_CODEX_Cell_measurements_merged.csv"  
+  - Source file for cell segmented data located in Zenodo (10.5281/zenodo.21681701) "Figure 4_CODEX_Cell_measurements_merged.csv"  
 
 ## **3B - Figure 5**:
 - CODEX data in ND vs. T2D age-matched adults
+  - Source file for cell segmented data, and pre-integrated data located in Zenodo ([10.5281/zenodo.21681701]) "Figure5_CODEX_Cell_measurements_merged.csv"
 
 ## **4 - Figure 6 and 7**:
 R scripts for islet snRNA-seq from 80 week-old-mice fed ad libitum (control) diet, or 20% calorie restriction for 8 weeks: 
